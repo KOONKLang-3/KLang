@@ -1,0 +1,19 @@
+{
+  "name": "classroom-seat-booking",
+  "version": "1.0.0",
+  "description": "ระบบเลือกที่นั่งในห้องเรียน 30 โต๊ะ พร้อมหน้ากระดาน ระบบเข้าสู่ระบบ และแผงควบคุมแอดมิน",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "classroom",
+    "seat-booking",
+    "thai",
+    "cyberpunk",
+    "modern-ui"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}

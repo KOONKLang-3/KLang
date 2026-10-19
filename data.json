@@ -1,0 +1,291 @@
+{
+  "seats": {
+    "L01": {
+      "id": "L01",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 1,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L02": {
+      "id": "L02",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 1,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L03": {
+      "id": "L03",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 1,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L04": {
+      "id": "L04",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 2,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L05": {
+      "id": "L05",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 2,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L06": {
+      "id": "L06",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 2,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L07": {
+      "id": "L07",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 3,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L08": {
+      "id": "L08",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 3,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L09": {
+      "id": "L09",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 3,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L10": {
+      "id": "L10",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 4,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L11": {
+      "id": "L11",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 4,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L12": {
+      "id": "L12",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 4,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L13": {
+      "id": "L13",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 5,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L14": {
+      "id": "L14",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 5,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "L15": {
+      "id": "L15",
+      "wing": "left",
+      "wingName": "ฝั่งซ้าย (ริมหน้าต่าง)",
+      "row": 5,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R01": {
+      "id": "R01",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 1,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R02": {
+      "id": "R02",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 1,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R03": {
+      "id": "R03",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 1,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R04": {
+      "id": "R04",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 2,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R05": {
+      "id": "R05",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 2,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R06": {
+      "id": "R06",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 2,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R07": {
+      "id": "R07",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 3,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R08": {
+      "id": "R08",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 3,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R09": {
+      "id": "R09",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 3,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R10": {
+      "id": "R10",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 4,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R11": {
+      "id": "R11",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 4,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R12": {
+      "id": "R12",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 4,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R13": {
+      "id": "R13",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 5,
+      "col": 1,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R14": {
+      "id": "R14",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 5,
+      "col": 2,
+      "status": "available",
+      "bookedBy": null
+    },
+    "R15": {
+      "id": "R15",
+      "wing": "right",
+      "wingName": "ฝั่งขวา (ริมทางเดิน)",
+      "row": 5,
+      "col": 3,
+      "status": "available",
+      "bookedBy": null
+    }
+  },
+  "users": [
+    {
+      "id": "admin_usr",
+      "username": "admin",
+      "password": "admin123",
+      "name": "อาจารย์ผู้ดูแลระบบ (Admin)",
+      "nickname": "อาจารย์",
+      "studentId": "ADMIN-01",
+      "role": "admin",
+      "badge": "อ.",
+      "color": "bg-amber-600"
+    }
+  ],
+  "boardTitle": "ยินดีต้อนรับสู่ห้อง ม.3/6",
+  "boardSubtitle": "ขอให้นักเรียนเลือกเก้าอี้ตามประสงค์",
+  "isSmartboard": false,
+  "showNamesOnDesks": true
+}
